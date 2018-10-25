@@ -3,7 +3,7 @@
 //  reverseLinkedList
 //
 //  Created by Balachandhar on 2018-07-27.
-//  Copyright © 2018 Balachandhar. All rights reserved.
+//  Copyright © 2018 Balachandhar.
 //
 
 #include <iostream>
