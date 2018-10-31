@@ -19,6 +19,9 @@
             1. start <= end - that is untill we have elements in the sub-array.
             2. e >= A[start] - element we are looking for is greater than or equal to the starting element of sub-array we are looking in.
             3. e =< A[end] - element we are looking for is less than or equal to the last element of sub-array we are looking in.
+            
+  Time complexity: This algorithm takes O(log n log n) time if the input is uniformly distributed or else this will take O(n).
+
  */
 
 #include <iostream>
